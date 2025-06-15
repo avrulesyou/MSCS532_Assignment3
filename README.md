@@ -77,3 +77,4 @@ Table capacity: 20
 Final load factor: 0.50
 ------------------------------
 Exiting the program. Goodbye!
+
